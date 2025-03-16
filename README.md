@@ -39,6 +39,11 @@ Class Komputer memiliki 5 atribut:
 - hard_drive (HardDrive)
 - peripheral_list (Peripheral)
 
+Class User memiliki 3 atribut:
+- nama
+- email
+- komputer (Komputer)
+
 Program bersifat statis sehingga tidak menerima inputan dari user. Ketika dieksekusi, program akan menampilkan detail komputer-komputer yang berisi:
 - Nama pemilik
 - Email pemilik
